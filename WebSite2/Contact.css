@@ -1,6 +1,6 @@
 ﻿body {
     background-color: #674ea7;
-    font-family: Scriptina;
+    font-family: Scriptina, 'Great Vibes', cursive;
 }
 
 #header {
@@ -9,7 +9,7 @@
     margin-right: auto;
     color: white;
     text-align: center;
-    font-family: Scriptina;
+    font-family: Scriptina, 'Great Vibes', cursive;
     font-size: 20px;
     padding-bottom: 0;
     margin-bottom: 50px;
@@ -52,5 +52,5 @@ form input, form textarea{
     padding-top: 100px;
     text-align: center;
     color: white;
-    font-family: Scriptina;
+    font-family: Scriptina, 'Great Vibes', cursive;
 }
